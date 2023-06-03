@@ -10,7 +10,12 @@ To write a program to find the maximum of a list of numbers.
 3.	Return the maximum value
 ## Program:
 
-i)	# To find the maximum of marks using the list method sort.
+i) # To find the maximum of marks using the list method sort.
+```
+''' 
+Program to mark the maximum of marks using the list method sort
+Developed by: YUVARAJ B
+RegisterNumber:212222230182 
 '''
 
 def max_marks(marks):
@@ -20,7 +25,9 @@ def max_marks(marks):
 
 ```
 
-ii)	
+ii) # To find the maximum marks using the list method max().
+```
+''' 
 Program to find the maximum marks using the list method max().
 Developed by: YUVARAJ B
 RegisterNumber: 212222230182
@@ -29,10 +36,11 @@ def max_marks(marks):
     large=max(marks)
     return large
     
-    ```
+```
 
-iii) 
-
+iii) # To find the maximum marks without using builtin functions.
+```
+''' 
 Program to the maximum marks without using builtin functions.
 Developed by: 
 RegisterNumber: 
